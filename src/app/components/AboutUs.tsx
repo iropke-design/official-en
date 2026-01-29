@@ -1,6 +1,6 @@
 import { ImageWithFallback } from '@/app/components/figma/ImageWithFallback';
 import { Link } from 'react-router-dom';
-import heroImage from 'figma:asset/949dc479ecb1c60bbe8821885a6fcaad87099e4a.png';
+import heroImage from '@/assets/949dc479ecb1c60bbe8821885a6fcaad87099e4a.png';
 
 export default function AboutUs() {
   return (
